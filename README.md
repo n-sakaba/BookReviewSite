@@ -2,6 +2,7 @@
 本のレビューサイト
 
 ## ■ URL
+https://n-sakaba.github.io/BookReviewSite/
 
 ---
 
